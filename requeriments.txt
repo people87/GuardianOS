@@ -1,0 +1,8 @@
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1776209387/work
+prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1756321756983/work
+questionary @ file:///home/conda/feedstock_root/build_artifacts/questionary_1757356288446/work
+setuptools==82.0.1
+tqdm @ file:///D:/bld/bld/rattler-build_tqdm_1770153445/work
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1770634525285/work
+wheel==0.46.3
