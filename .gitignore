@@ -1,7 +1,15 @@
+# Python
 __pycache__/
 *.py[cod]
+*$py.class
 .venv/
 venv/
-.env
+
+# Logs e Sandbox
+logs/
+guardian_sandbox/
+guardian_session.log
+
+# IDEs
 .vscode/
-*.log
+.idea/
